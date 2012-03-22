@@ -1,3 +1,5 @@
-= ldap_kerberos
+= ldap_kerberos Redmine Ldap Kerberos plugin
+  
+Authenticate LDAP users with kerberos password'
 
-Description goes here
+2012 Joakim Lundborg
