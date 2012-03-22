@@ -1,5 +1,8 @@
-= ldap_kerberos Redmine Ldap Kerberos plugin
+= ldap_kerberos  
+== Redmine Ldap Kerberos plugin
   
-Authenticate LDAP users with kerberos password'
+Authenticate LDAP users with kerberos password
 
-2012 Joakim Lundborg
+It will use the system /etc/krb5.conf, no configuration required in the plugin.
+
+Uses http://rubyforge.org/projects/krb5-auth/ for kerberos bindings.
